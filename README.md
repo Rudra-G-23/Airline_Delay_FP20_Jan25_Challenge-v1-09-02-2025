@@ -2,6 +2,9 @@
 
 Excited to have participated in the FP20 Analytics Challenge '23! This repository contains the code and resources for my Airlines Delays Analysis Dashboard, built using Power BI and ZoomCharts.
 
+![ScreenRecording2025-02-10172706-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3d12e60e-84a8-48ca-8a20-50f93b20e61e)
+
+
 ## Dashboard Overview
 
 This interactive dashboard provides a comprehensive analysis of airline delays, offering insights into various aspects of flight disruptions.  The dashboard is divided into two pages:
@@ -66,6 +69,6 @@ This interactive dashboard provides a comprehensive analysis of airline delays, 
 * GPT
 * Copilot
 
-- v1-09-02-2025
+v1-09-02-2025
 
 
