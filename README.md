@@ -3,6 +3,7 @@
 Excited to have participated in the FP20 Analytics Challenge '23! This repository contains the code and resources for my Airlines Delays Analysis Dashboard, built using Power BI and ZoomCharts.
 
 ![ScreenRecording2025-02-10172706-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3d12e60e-84a8-48ca-8a20-50f93b20e61e)
+![p2](https://github.com/user-attachments/assets/82fa2fd0-24ad-4ff8-959b-50a00df45daa)
 
 
 ## Dashboard Overview
